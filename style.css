@@ -1,0 +1,15 @@
+
+table{
+    background-color:#0000ff8f;
+    padding:4%;
+    height: 40%;
+    width: 40%;
+}
+td{
+    padding:2%;
+}
+.title{
+    margin-top: 5%;
+    color: blue;
+    font-size: 208%;
+}
